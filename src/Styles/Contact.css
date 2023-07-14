@@ -1,0 +1,34 @@
+
+.singleCol {
+    max-width: 750px;
+    margin: 0 auto;
+
+}
+
+.social-media-icons-black a {
+    color: white;
+    font-size: 3rem;
+}
+
+a {
+    margin: 30px;
+}
+
+#Contact {
+    background: #98bf64;
+    margin : 30px;
+    padding: 30px;
+    border-radius: 200px;
+    border-width: 2px;
+    border-color: black;
+    border-style: double;
+}
+
+#Contact h3{
+    color: white;
+}
+
+#Contact h1{
+    color: white;
+}
+

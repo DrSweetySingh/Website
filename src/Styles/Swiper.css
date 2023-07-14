@@ -1,0 +1,40 @@
+*{
+   
+}
+
+.carousel {
+    box-sizing: border-box;
+    color: #fff;
+    height: 50vh;
+    width: 100vw;
+}
+
+.box {
+    background-color: #98bf64;
+}
+
+.box h3 {
+    text-align: center;
+}
+
+.slick-slide div{
+    margin: 0 1 rem;
+
+}
+
+.slick-arrow slick-prev{
+    right: -40px !important;
+
+}
+
+.slick-dots li.slick-active button:before{
+    color: #98bf64 !important;
+    
+}
+
+.slick-dots li button:before{
+    color:#000 !important;
+    font-size: 1rem !important;
+    top: 1rem !important;
+}
+

@@ -1,0 +1,17 @@
+#specs {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+table {
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+}
+
+td {
+    text-align: left;
+    font-size: 2em;
+}
+
+
